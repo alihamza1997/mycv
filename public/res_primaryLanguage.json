@@ -1,0 +1,243 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "A Computer Science Graduate, Web Front-End Developer, eager to learn and work in some kind of framework and seeking for an opportunity to work on latest web development tools and technologies in a progressive organization.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "expertis": "Expertis",
+        "pskills": "Personal skills",
+        "experience": "Experience",
+        "education": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "lowcostiptv.online",
+        "startDate": "2023",
+        "description": "WordPress Website for Selling IPTV using WP ELEMENTOR Page Builder & WOOCOMMERCE Plugin.",
+        "images": [
+          "images/portfolio/lowcostiptv.online/p1.webp",
+          "images/portfolio/lowcostiptv.online/p2.webp",
+          "images/portfolio/lowcostiptv.online/p3.webp",
+          "images/portfolio/lowcostiptv.online/p4.webp",
+          "images/portfolio/lowcostiptv.online/p5.webp",
+          "images/portfolio/lowcostiptv.online/p6.webp",
+          "images/portfolio/lowcostiptv.online/p7.webp"
+        ],
+        "url": "lowcostiptv.online",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "citycircle.co.uk (Custom Website)",
+        "startDate": "2023",
+        "description": "UK Based Luxury Minibus Transport Company Website.",
+        "images": [
+          "images/portfolio/citycircle.co.uk/p1.webp",
+          "images/portfolio/citycircle.co.uk/p2.webp"
+        ],
+        "url": "citycircle.co.uk",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "rightclicksms.com (Custom Website)",
+        "startDate": "2023",
+        "description": "Branded SMS Marketing Company Website.",
+        "images": [
+          "images/portfolio/rightclicksms.com/p1.webp",
+          "images/portfolio/rightclicksms.com/p2.webp",
+          "images/portfolio/rightclicksms.com/p3.webp",
+          "images/portfolio/rightclicksms.com/p4.webp",
+          "images/portfolio/rightclicksms.com/p5.webp",
+          "images/portfolio/rightclicksms.com/p6.webp",
+          "images/portfolio/rightclicksms.com/p7.webp"
+        ],
+        "url": "rightclicksms.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "lowcostsms.net (Custom Website) ",
+        "startDate": "2022",
+        "description": "Bulk SMS Marketing Company Website.",
+        "images": [
+          "images/portfolio/lowcostsms.net/p1.webp",
+          "images/portfolio/lowcostsms.net/p2.webp",
+          "images/portfolio/lowcostsms.net/p3.webp"
+        ],
+        "url": "lowcostsms.net",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "jinnahsecurityvision.com (Custom Website)",
+        "startDate": "2021",
+        "description": "Security Surveillance Company’s Website.",
+        "images": [
+          "images/portfolio/jinnahsecurityvision.com/p1.webp",
+          "images/portfolio/jinnahsecurityvision.com/p2.webp",
+          "images/portfolio/jinnahsecurityvision.com/p3.webp",
+          "images/portfolio/jinnahsecurityvision.com/p4.webp",
+          "images/portfolio/jinnahsecurityvision.com/p5.webp",
+          "images/portfolio/jinnahsecurityvision.com/p6.webp"
+        ],
+        "url": "jinnahsecurityvision.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "envisiondigital.marketing (Custom Website) ",
+        "startDate": "2021",
+        "description": "Digital Marketing Company’s Website for the Company where I was working previously.",
+        "images": [
+          "images/portfolio/envisiondigital.marketing/p1.jpg",
+          "images/portfolio/envisiondigital.marketing/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "NextLogics",
+        "title": "Web Front-End Developer",
+        "years": "2022 - Present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "MySQL",
+          "WordPress",
+          "Woocommerce",
+          "Website Optimization",
+          "Email Signature",
+          "Figma To HTML",
+          "PSD To HTML",
+          "Web Development",
+          "Web Designing",
+          "Web Front End Development"
+        ]
+      },
+      {
+        "company": "Envision Digital",
+        "title": "Web Developer",
+        "years": "2020 - 2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "MySQL",
+          "Website Optimization",
+          "Web Development",
+          "Web Designing",
+          "Web Front End Development"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "instituation": "Lahore Garrison University, Lahore, PK",
+        "title": "Bachelor of Science in Computer Science ",
+        "years": "2015-2019",
+        "mainTech": [
+          "Angular 8/9/10"
+        ]
+      },
+      {
+        "instituation": "National Science College, Gujranwala, PK",
+        "title": "Intermediate of Computer Science ",
+        "years": "2013-2015",
+        "mainTech": [
+          "Angular 7/8"
+        ]
+      },
+      {
+        "instituation": "Allied School, Gujranwala, PK",
+        "title": "Matriculation with Computer Science ",
+        "years": "2011-2013",
+        "mainTech": [
+          "Angular 7/8"
+        ]
+      }
+    ]
+  }

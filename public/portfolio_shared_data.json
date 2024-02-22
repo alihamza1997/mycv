@@ -1,0 +1,131 @@
+{
+    "basic_info": {
+      "name": "Ali Hamza",
+      "titles": [ "Front-end Developer", "Web Load Time Optimizer", "Web Deverloper", "WordPress Developer" ],
+      "contactdetails": [
+        {
+          "phone": "+923157630507",
+          "email": "alihamza1997@gmail.com",
+          "city": "Gujranwala",
+          "phonelink": "tel:+923157630507",
+          "emaillink": "mailto:alihamza1997@gmail.com",
+          "citylink": "Gujranwala"
+        }
+      ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/alihamza1997/",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://pk.linkedin.com/in/ali-hamza-a81252190/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "fiverr",
+          "url": "https://www.fiverr.com/alihamza1997",
+          "class": "fa fa-f"
+        }
+      ],
+      "image": "me.webp"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "JQuery",
+          "class": "devicon-jquery-plain",
+          "level": "60"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "WordPress",
+          "class": "devicon-wordpress-plain",
+          "level": "60"
+        },
+        {
+          "name": "FileZilla",
+          "class": "devicon-filezilla-plain",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "60"
+        }
+      ]
+    },
+    "expertis": {
+      "icons": [
+        {
+          "name": "Web Front-End Designing",
+          "level": "95"
+        },
+        {
+          "name": "Coding in HTML, CSS, JS and PHP",
+          "level": "95"
+        },
+        {
+          "name": "Responsive Web Designing",
+          "level": "70"
+        },
+        {
+          "name": "CSS, JS, Image Optimization",
+          "level": "85"
+        },
+        {
+          "name": "Website Load Time Optimization",
+          "level": "60"
+        },
+        {
+          "name": "Email Signature Template Designing",
+          "level": "60"
+        }
+      ]
+    },
+    "pskills": {
+      "icons": [
+        {
+          "name": "Understanding of consumer behavior",
+          "level": "95"
+        },
+        {
+          "name": "Possesses great analytical and problem solving skills",
+          "level": "95"
+        },
+        {
+          "name": "Practical knowledge of web interfaces, responsive web designing, cross browser compatibility and web standards",
+          "level": "70"
+        },
+        {
+          "name": "Able to work harmoniously with other members of the team ",
+          "level": "85"
+        }
+      ]
+    }
+  }
