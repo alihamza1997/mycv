@@ -34,12 +34,12 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML5",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS3",
           "class": "devicon-css3-plain",
           "level": "95"
         },
@@ -64,8 +64,23 @@
           "level": "60"
         },
         {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "60"
+        },
+        {
           "name": "WordPress",
           "class": "devicon-wordpress-plain",
+          "level": "60"
+        },
+        {
+          "name": "WooCommerces",
+          "class": "devicon-woocommerce-plain",
+          "level": "60"
+        },
+        {
+          "name": "WP Elementor",
+          "class": "devicon-elementor-plain",
           "level": "60"
         },
         {

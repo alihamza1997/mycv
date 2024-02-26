@@ -26,19 +26,48 @@
           "images/portfolio/lowcostiptv.online/p6.webp",
           "images/portfolio/lowcostiptv.online/p7.webp"
         ],
-        "url": "lowcostiptv.online",
+        "url": "https://lowcostiptv.online/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-woocommerce-plain",
+            "name": "WooCommerce"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-elementor-plain",
+            "name": "Elementor PRO"
+          }
+        ]
+      },
+      {
+        "title": "lowcostvpn.online",
+        "startDate": "2023",
+        "description": "WordPress Website for Selling VPN using WP ELEMENTOR Page Builder & WOOCOMMERCE Plugin.",
+        "images": [
+          "images/portfolio/lowcostvpn.online/p1.webp",
+          "images/portfolio/lowcostvpn.online/p2.webp",
+          "images/portfolio/lowcostvpn.online/p3.webp",
+          "images/portfolio/lowcostvpn.online/p4.webp",
+          "images/portfolio/lowcostvpn.online/p5.webp",
+          "images/portfolio/lowcostvpn.online/p6.webp",
+          "images/portfolio/lowcostvpn.online/p7.webp"
+        ],
+        "url": "https://lowcostvpn.online/",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "WordPress"
+          },
+          {
+            "class": "devicon-woocommerce-plain",
+            "name": "WooCommerce"
+          },
+          {
+            "class": "devicon-elementor-plain",
+            "name": "Elementor PRO"
           }
         ]
       },
@@ -50,15 +79,27 @@
           "images/portfolio/citycircle.co.uk/p1.webp",
           "images/portfolio/citycircle.co.uk/p2.webp"
         ],
-        "url": "citycircle.co.uk",
+        "url": "https://citycircle.co.uk/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       },
@@ -75,24 +116,32 @@
           "images/portfolio/rightclicksms.com/p6.webp",
           "images/portfolio/rightclicksms.com/p7.webp"
         ],
-        "url": "rightclicksms.com",
+        "url": "https://rightclicksms.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       },
       {
-        "title": "lowcostsms.net (Custom Website) ",
+        "title": "lowcostsms.net (Custom Website)",
         "startDate": "2022",
         "description": "Bulk SMS Marketing Company Website.",
         "images": [
@@ -100,19 +149,27 @@
           "images/portfolio/lowcostsms.net/p2.webp",
           "images/portfolio/lowcostsms.net/p3.webp"
         ],
-        "url": "lowcostsms.net",
+        "url": "https://lowcostsms.net/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       },
@@ -128,43 +185,127 @@
           "images/portfolio/jinnahsecurityvision.com/p5.webp",
           "images/portfolio/jinnahsecurityvision.com/p6.webp"
         ],
-        "url": "jinnahsecurityvision.com",
+        "url": "http://www.jinnahsecurityvision.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       },
       {
-        "title": "envisiondigital.marketing (Custom Website) ",
+        "title": "Envision Digital (Custom Website)",
         "startDate": "2021",
         "description": "Digital Marketing Company’s Website for the Company where I was working previously.",
         "images": [
-          "images/portfolio/envisiondigital.marketing/p1.jpg",
-          "images/portfolio/envisiondigital.marketing/p2.jpg"
+          "images/portfolio/envisiondigital/p1.webp",
+          "images/portfolio/envisiondigital/p2.webp",
+          "images/portfolio/envisiondigital/p3.webp",
+          "images/portfolio/envisiondigital/p4.webp",
+          "images/portfolio/envisiondigital/p5.webp",
+          "images/portfolio/envisiondigital/p6.webp"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Arrangements4u (Custom Website)",
+        "startDate": "2021",
+        "description": "Events Decor Website for a Company.",
+        "images": [
+          "images/portfolio/arrangements4u/p1.webp",
+          "images/portfolio/arrangements4u/p2.webp"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Flame Marketing (Custom Website)",
+        "startDate": "2021",
+        "description": "Digital Marketing Company’s Website for the Company.",
+        "images": [
+          "images/portfolio/flame-marketing/p1.webp",
+          "images/portfolio/flame-marketing/p2.webp"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
           }
         ]
       }
@@ -217,7 +358,7 @@
     "education": [
       {
         "instituation": "Lahore Garrison University, Lahore, PK",
-        "title": "Bachelor of Science in Computer Science ",
+        "title": "Bachelor of Science in Computer Science",
         "years": "2015-2019",
         "mainTech": [
           "Angular 8/9/10"
@@ -225,7 +366,7 @@
       },
       {
         "instituation": "National Science College, Gujranwala, PK",
-        "title": "Intermediate of Computer Science ",
+        "title": "Intermediate of Computer Science",
         "years": "2013-2015",
         "mainTech": [
           "Angular 7/8"
@@ -233,7 +374,7 @@
       },
       {
         "instituation": "Allied School, Gujranwala, PK",
-        "title": "Matriculation with Computer Science ",
+        "title": "Matriculation with Computer Science",
         "years": "2011-2013",
         "mainTech": [
           "Angular 7/8"

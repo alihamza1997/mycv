@@ -12,7 +12,7 @@ class Skills extends Component {
                 <i className={skills.class} style={{ fontSize: "220%" }}>
                   <p
                     className="text-center"
-                    style={{ fontSize: "30%", marginTop: "4px" }}
+                    style={{ fontSize: "40%", marginTop: "4px" }}
                   >
                     {skills.name}
                   </p>
@@ -46,11 +46,10 @@ class Skills extends Component {
       var sectionName3 = this.props.resumeBasicInfo.section_name.pskills;
       var pskills = this.props.sharedPskills.icons.map(function (pskills, i) {
         return (
-          <li className="list-inline-item mx-3" key={i}>
+          <li className="mx-3" key={i}>
             <span>
-              <div className="text-center skills-tile w-auto p-3">
+              <div className="skills-tile w-auto p-3">
                   <p
-                    className="text-center"
                     style={{ margin: "0" }}
                   >
                     {pskills.name}
@@ -90,8 +89,8 @@ class Skills extends Component {
             <span className="text-white">{sectionName3}</span>
           </h1>
         </div>
-        <div className="col-md-12 text-center">
-          <ul className="list-inline mx-auto mt-5 skill-icon">{pskills}</ul>
+        <div className="col-md-12">
+          <ul className="list-inline mx-auto mt-5 skill-icon w-50 text-left">{pskills}</ul>
         </div>
       </div>
       </section>
